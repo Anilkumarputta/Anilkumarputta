@@ -1,6 +1,13 @@
 # Hello, I'm Anil Kumar Putta 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=Anilkumarputta&label=Profile%20views&color=0e75b6&style=flat)
+<details>
+<summary><strong>Show all my projects</strong></summary>
+
+You can view all my repositories and projects on GitHub:
+
+- View them on my profile: [See my projects](https://github.com/Anilkumarputta?tab=repositories)
+
+</details>
 
 ## 👨🏻‍💻 About Me:
 
