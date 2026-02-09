@@ -51,10 +51,7 @@ AI / LLM:
 Version Control & CI/CD:
 <img src="https://img.shields.io/badge/Git-FF2D20?style=flat-square&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab"/>
 
----
-If you'd like, I can:
-- Replace the single "Core Java" badge with individual badges for each Core Java topic (Collections, Streams, Lambdas, Exceptions, Multithreading, Executors, Futures, CompletableFuture, Virtual Threads), or  
-- Change the badge style (for-the-badge, flat, plastic), sizes, or colors to match your README theme.## 📊 GitHub Stats:
+- ## 📊 GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anilkumarputta&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
