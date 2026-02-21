@@ -1,13 +1,76 @@
 # Hello, I'm Anil Kumar Putta 👋
 
-<details>
-<summary><strong>Show all my projects</strong></summary>
 
-You can view all my repositories and projects on GitHub:
+## 🚀 Featured Projects
 
-- View them on my profile: [See my projects](https://github.com/Anilkumarputta?tab=repositories)
+<table>
+  <tr>
+    <td><a href="https://github.com/Anilkumarputta/Portfolio"><b>Portfolio</b></a></td>
+    <td>Personal portfolio website showcasing skills and experience.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Anilkumarputta/PulseDesk-Portal"><b>PulseDesk-Portal</b></a></td>
+    <td>Modern helpdesk portal built with TypeScript and advanced UI/UX.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Anilkumarputta/PokeRealm"><b>PokeRealm</b></a></td>
+    <td>PokéWorld: A modern Pokédex web app built with React.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Anilkumarputta/Table-Search"><b>Table-Search</b></a></td>
+    <td>Simple and efficient HTML table search utility.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Anilkumarputta/Easy-Tip"><b>Easy-Tip</b></a></td>
+    <td>Fast tip and split calculator for web and mobile.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Anilkumarputta/Clockwork-Atelier"><b>Clockwork-Atelier</b></a></td>
+    <td>Portfolio: Brass, steel, and storytelling through handcrafted mechanisms.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Anilkumarputta/Modern-Web-Calculator"><b>Modern-Web-Calculator</b></a></td>
+    <td>Modern web calculator with advanced features and clean UI.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Anilkumarputta/calculator-4"><b>calculator-4</b></a></td>
+    <td>Forked: C# calculator project with extended features.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Anilkumarputta/calc-history1"><b>calc-history1</b></a></td>
+    <td>C# calculator with history tracking.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Anilkumarputta/calc-proj3"><b>calc-proj3</b></a></td>
+    <td>Project for calculator history and experiments.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Anilkumarputta/calc-prj2"><b>calc-prj2</b></a></td>
+    <td>C# calculator project with additional features.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Anilkumarputta/calculator2"><b>calculator2</b></a></td>
+    <td>Extension for calculator MAUI example in C#.</td>
+  </tr>
+</table>
+---
 
-</details>
+## 📚 All Projects
+
+Here is a complete list of my public repositories:
+
+- [Portfolio](https://github.com/Anilkumarputta/Portfolio)
+- [PulseDesk-Portal](https://github.com/Anilkumarputta/PulseDesk-Portal)
+- [PokeRealm](https://github.com/Anilkumarputta/PokeRealm)
+- [Table-Search](https://github.com/Anilkumarputta/Table-Search)
+- [Easy-Tip](https://github.com/Anilkumarputta/Easy-Tip)
+- [Clockwork-Atelier](https://github.com/Anilkumarputta/Clockwork-Atelier)
+- [Modern-Web-Calculator](https://github.com/Anilkumarputta/Modern-Web-Calculator)
+- [calculator-4](https://github.com/Anilkumarputta/calculator-4)
+- [calc-history1](https://github.com/Anilkumarputta/calc-history1)
+- [calc-proj3](https://github.com/Anilkumarputta/calc-proj3)
+- [calc-prj2](https://github.com/Anilkumarputta/calc-prj2)
+- [calculator2](https://github.com/Anilkumarputta/calculator2)
 
 ## 👨🏻‍💻 About Me:
 
